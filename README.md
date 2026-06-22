@@ -94,18 +94,8 @@ MCA Student | Data Analytics Enthusiast | Machine Learning Learner
 # 📚 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma"/>
+<img src="https://leetcard.jacoblin.cool/msaikrishna19?theme=dark&font=Karma"/>
 </p>
-
----
-
-# 📊 WakaTime Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -115,29 +105,8 @@ MCA Student | Data Analytics Enthusiast | Machine Learning Learner
 * Model Comparison
 * Django + Machine Learning
 * Scikit-Learn
-
+  
 ---
-
-## 📚 Study.ai
-
-AI-powered interview preparation platform
-
-* Resume-based preparation
-* MCQs and Flashcards
-* Topic-wise preparation
-* PDF and document-based learning
-
----
-
-# 📜 Certifications
-
-* Google Data Analytics Professional Certificate
-* Microsoft Power BI Certification
-* Python Certification
-* SQL Certification
-
----
-
 # 🎯 Current Focus
 
 ```text
@@ -159,7 +128,7 @@ AI-powered interview preparation platform
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:msaikrishna502@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
