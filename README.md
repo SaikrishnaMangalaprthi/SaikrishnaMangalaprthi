@@ -48,17 +48,6 @@ MCA Student | Data Analytics Enthusiast | Machine Learning Learner
 </p>
 
 ---
-
-# 📈 GitHub Statistics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SaikrishnaMangalaprthi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikrishnaMangalaprthi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
