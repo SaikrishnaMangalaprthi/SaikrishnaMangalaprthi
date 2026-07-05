@@ -73,23 +73,6 @@ MCA Student | Data Analytics Enthusiast | Machine Learning Learner
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaikrishnaMangalaprthi&theme=tokyo-night"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SaikrishnaMangalaprthi&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SaikrishnaMangalaprthi/SaikrishnaMangalaprthi/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # 📚 LeetCode Stats
 
